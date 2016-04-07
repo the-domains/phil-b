@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Phil B]]></title>
         <description><![CDATA[Phil B]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/phil-b/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 06:03:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 06:25:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/phil-b/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6fd17b4-b667-445f-a0c3-7404ff673738.png">]]></description>
-            <link>undefined1b357a70-d122-4a4c-8989-5458add48257/index.html</link>
+            <description><![CDATA[<p>This is going to be fun</p>]]></description>
+            <link>https://thegrid.ai/phil-b/1b357a70-d122-4a4c-8989-5458add48257/index.html</link>
             <guid isPermaLink="false">1b357a70-d122-4a4c-8989-5458add48257</guid>
-            <pubDate>Thu, 07 Apr 2016 06:02:27 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 06:24:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
